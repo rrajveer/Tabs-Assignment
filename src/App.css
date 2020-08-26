@@ -1,0 +1,9 @@
+.rowData {
+  display: flex;
+  width: 50%;
+    margin-bottom: 10px;
+    justify-content: center;
+    background: aliceblue;
+    transition: all 1s linear;
+    border: 0.01rem solid rgba(0,0,0,0.2);
+}
